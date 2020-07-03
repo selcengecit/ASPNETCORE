@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hH8dnt3eg+G7V8cO9l9TmAY5WBl2vr/E+Slem8Cy0Z8Lh88tIRHEnLPH9uq279mFnuDS6c1t1oz3nPzrtm8hOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selcuk\\source\\repos\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selcuk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
